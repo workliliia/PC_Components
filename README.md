@@ -17,7 +17,7 @@
 This project is a Python-based desktop application featuring a graphical user interface (GUI). It is designed to assist users in custom-building a PC by visually displaying the necessary components and tracking which parts the user already has. Built using a GUI framework/library such as tkinter, PyQt, or Kivy, the application offers an intuitive and user-friendly interface. It aims to simplify the PC-building process, making it accessible and enjoyable even for non-technical users.
 
 - <i>Sketch Plan:</i>
-<img width="1406" alt="Screenshot 2025-02-13 at 23 25 15" src="https://github.com/user-attachments/assets/07066135-a8ef-4e57-a00d-cef22f6352b2" />
+<img width="1185" alt="Screenshot 2025-02-17 at 15 00 00" src="https://github.com/user-attachments/assets/e5e43c90-44df-4121-8a9f-b21d3efd9afd" />
 
 ---
 
